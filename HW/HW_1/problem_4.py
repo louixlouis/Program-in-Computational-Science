@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Problem 3.
+Problem 4.
 
 Using a while loop, calculate the 100th Fibonacci number.
 """
