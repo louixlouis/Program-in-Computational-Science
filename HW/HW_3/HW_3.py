@@ -10,7 +10,7 @@ If 'option' is 1, the function should draw an upper right triangle;
 if 'option' is 2, it draws a lower right triangle. For any other value, the function prints 'option error.'.
 
 The 'rows' parameter specifies the height of the triangle. If a value less than 2 is entered for 'rows',
-the function prints 'rows error'. It is assumeed that both 'option' and 'rows' are integers.
+the function prints 'rows error'. It is assumed that both 'option' and 'rows' are integers.
 
 For example, if 'draw_triangle(1, 3)' is called, the function should draw an upper right triangle 
 with a height of 3 rows as shown below.
