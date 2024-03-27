@@ -4,9 +4,15 @@
 Problem 1.
 
 Execute the Tower of Hanoi code found in Lecture 6 and submit the result as an image file. 
-The height of the tower should be 64. 
+The height of the tower should be 10. 
 """
+# TODO.
 
+#############################
+# Test cases.
+# Do not modify below code.
+#############################
+Towers(10, 'A', 'B', 'C')
 #%%
 """
 Problem 2.
