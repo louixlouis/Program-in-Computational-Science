@@ -122,3 +122,10 @@ student_info = [{'name': 'PFQYA', 'grade': 3, 'score': 35},
  {'name': 'GPPRF', 'grade': 1, 'score': 20}]
 
 summarize_student_info(student_info)
+#%%
+num = 1
+match num:
+    case 1:
+        print('asdfasdf')
+    case 2:
+        print('fghfghfgh')
