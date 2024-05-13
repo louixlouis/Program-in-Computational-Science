@@ -19,3 +19,12 @@ class Sorting:
     def merge_sort(self, numbers, reverse=False):
         pass
 
+#%%
+"""
+Problem 2. Optimization [Greedy Alg]
+"""
+
+#%%
+"""
+Problem 3. Optimization [DP Alg]
+"""
