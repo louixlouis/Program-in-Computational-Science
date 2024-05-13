@@ -34,6 +34,9 @@ class Sorting:
                     print(result)
         return result
     
+    def merge_helper(self):
+        pass
+    
     def merge_sort(self, reverse=False):
         print('==============MERGE SORT===============')
         result = self.numbers.copy()
